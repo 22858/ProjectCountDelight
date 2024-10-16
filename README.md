@@ -1,4 +1,4 @@
-![](https://i.mcmod.cn/editor/upload/20241016/1729066851_509174_IfFQ.png)
+<img src="https://i.mcmod.cn/editor/upload/20241016/1729066851_509174_IfFQ.png" alt="Project Count Delight">
 
 📖About
 

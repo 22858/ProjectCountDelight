@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "projectcountdelight",
+	"version": "${version}",
+	"name": "projectcountdelight",
+	"description": "i hate project count",
+	"authors": [
+		"someone who does not like project count"
+	],
+	"contact": {
+		"sources": "https://github.com/22858/ProjectCountDelight"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/projectcountdelight/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.example.Projectcountdelight"
+		]
+	},
+	"mixins": [
+		"projectcountdelight.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

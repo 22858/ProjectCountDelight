@@ -12,7 +12,7 @@ import net.minecraft.util.Identifier;
 public class PItem {
 
     public static final Item SHIT = registerItem("shit",
-            new Item(new FabricItemSettings()));
+            new Item(new FabricItemSettings().food(PFood.SHIT)));
     public static final Item PROJECTCOUONT = registerItem("projectcount",
             new Item(new FabricItemSettings()));
 
